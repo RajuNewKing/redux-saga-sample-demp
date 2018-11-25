@@ -1,2 +1,1 @@
-# idealreactseed
-The ideal react seed
+Best React Sags example
